@@ -64,3 +64,14 @@ Telegram Scraper is a platform mainly developed for advertising. This project ai
 
 ## Blockchain Projects
 
+First things first, the world is evolving, and Blockchain is a highly recommended new trend for the future. The Blockchain is the new method for making the world more decentralized and secure. In order to expand our future responsibility at NuraFin, we are focusing on several Blockchain-related fields. 
+ 
+ 
+### Drybit 
+ 
+The first and most important project for Nura is to create an entirely new Blockchain for the Drybit device. Drybit is a brand-new and revolutionary device that utilizes the heat of miners to dehydrate fruits. Drybit aims to solve the electricity problem of the Proof-of-Work consensus of Bitcoin miners by utilizing the heat of the miners to dry fruits, thereby contributing to a greener world and reducing BTC mining's electricity consumption to zero.
+
+Drybit is a sustainable project that aims to open new doors for the mining industry, and it could be considered an innovative solution to the problem of bitcoin mining's energy consumption. 
+ 
+### Additional projects 
+We are attempting to develop additional blockchain-based projects for Asset Tokenization and Real Estate.
